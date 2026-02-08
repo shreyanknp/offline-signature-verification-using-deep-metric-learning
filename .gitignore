@@ -1,0 +1,13 @@
+/*Datasets/*signatures.rar
+/*Datasets/*signatures/*full_org
+/*Datasets/*signatures/*full_forg
+/*.venv
+
+# Model files
+*.h5
+*.keras
+*.ckpt
+
+# OS
+.DS_Store
+Thumbs.db
