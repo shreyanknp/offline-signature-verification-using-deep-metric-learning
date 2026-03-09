@@ -63,18 +63,6 @@ Cross-dataset experiments were also conducted to analyze the **generalization ca
 
 ---
 
-## Project Structure
-
-```
-datasets/
-models/
-notebooks/
-src/
-results/
-```
-
----
-
 ## Author
 
 **Shreyank N P**  
